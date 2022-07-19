@@ -4,7 +4,7 @@
 ### Purpose:
 Created an automated pipeline that takes in new data (Wikipedia data, Kaggle metadata, and the MovieLens rating data), performs the appropriate transformations, and loads the data into existing tables in a PostgreSQL database.  
 
-### Technolgies Used: 
+### Technologies Used: 
 -	Python
     - Pandas
     - SQLAlchemy
